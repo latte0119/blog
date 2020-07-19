@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://latte0119.github.io/"
 languageCode = "ja"
 title = "latte0119/blog"
-theme="zen"
-disableKinds=["RSS","sitemap"]
+canonifyurls=true
+theme="ananke"
