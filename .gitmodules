@@ -4,3 +4,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "latte0119.github.io"]
+	path = public
+	url = git@github.com:latte0119/latte0119.github.io.git
