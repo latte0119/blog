@@ -2,4 +2,4 @@ baseURL = "https://latte0119.github.io"
 languageCode = "ja"
 title = "latte0119/blog"
 canonifyurls=true
-theme="zen"
+theme="ananke"
